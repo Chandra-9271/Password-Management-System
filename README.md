@@ -4,7 +4,7 @@ A simple yet powerful Java (JSP + Servlet) based password manager web applicatio
 
 ## 🌐 Live Demo
 *Will add after deployment.*
-Click[https://5af3b19f6c2d.ngrok-free.app/Pwd_manager/]
+Click[ https://16d8bfbce4d2.ngrok-free.app/Pwd_manager/]
 
 ## 📦 Features
 - ✅ User registration & login
